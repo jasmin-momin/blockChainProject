@@ -1,4 +1,4 @@
-ragma solidity ^0.4.21 <0.6.12;
+pragma solidity ^0.4.21 <0.6.12;
   contract ReportCard {
     
     string public  name;
